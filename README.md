@@ -1,5 +1,5 @@
 # Machine Learning Assignments
-This repository contains the assignments and practical work I’ve completed as part of the Machine Learning course (EE769) at IIT Bombay, taught by Prof. Amit Sethi. It includes assignments covering regression, classification, clustering, ensemble methods, regularization, dimensionality reduction, and representation learning.
+This repository contains the assignments and practical work I’ve completed as part of the Introduction to Machine Learning (EE769) at IIT Bombay, taught by Prof. Amit Sethi. It includes assignments covering regression, classification, clustering, ensemble methods, regularization, dimensionality reduction, and representation learning.
 
 These assignments helped me build a better understanding of how different machine learning methods work, how to apply them to datasets, and how to evaluate and compare their performance.
 
